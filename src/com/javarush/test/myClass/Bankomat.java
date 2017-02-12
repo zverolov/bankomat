@@ -29,6 +29,9 @@ public class Bankomat {
         }
         System.out.println(f[120]);
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
         int m=120;
         if(f[120]==666){
             System.out.println("no possible");
@@ -43,6 +46,8 @@ public class Bankomat {
                 }
             }
         }
+
+        // something change in this project and i try to commit this version
         /*
 
  if (F[m]=INF)
@@ -56,6 +61,8 @@ public class Bankomat {
                 break;
             end;
 end.
+
+new string
          */
     }
 }
